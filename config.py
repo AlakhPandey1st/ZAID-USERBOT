@@ -9,7 +9,7 @@ if os.path.exists("local.env"):
 API_ID = int(15578503) #optional
 API_HASH = "de14eccfa6fa8d7c2eee9656cc2bdc69" #optional
 
-SUDO_USERS =
+SUDO_USERS = None
 OWNER_ID = int(5525620445)
 MONGO_URL = "mongodb+srv://Atul:Atul@cluster0.vjd7r1g.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 BOT_TOKEN = "7762470551:AAFbtj2V7aBnhy-q3vM6qqQ9DIAdeF6mLLI"
